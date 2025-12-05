@@ -247,13 +247,6 @@
   </url>
   
   <url>
-    <loc>https://www.ud2-blog.top/tags/%E5%8F%8D%E5%B0%84%E5%BC%8FDLL%E6%B3%A8%E5%85%A5/</loc>
-    <lastmod>2025-12-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ud2-blog.top/tags/%E7%BA%BF%E7%A8%8B%E5%8A%AB%E6%8C%81/</loc>
     <lastmod>2025-12-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -302,6 +295,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.ud2-blog.top/tags/%E5%86%85%E5%AD%98%E5%8A%A0%E8%BD%BD/</loc>
+    <lastmod>2025-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -313,13 +313,6 @@
   
   <url>
     <loc>https://www.ud2-blog.top/categories/Windows%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/%E8%BF%9B%E7%A8%8B%E6%B3%A8%E5%85%A5%E6%94%BB%E9%98%B2/</loc>
-    <lastmod>2025-12-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ud2-blog.top/categories/%E8%BF%9B%E7%A8%8B%E6%B3%A8%E5%85%A5%E6%94%BB%E9%98%B2/</loc>
     <lastmod>2025-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
